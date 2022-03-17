@@ -36,8 +36,13 @@ export const Signup = () => {
         }
         else{
             alert("Successfully Signed in")
+
+            setdata("")
         }
 
+
+
+       
         
     }
     return (
